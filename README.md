@@ -20,8 +20,8 @@ Using a Decision Intelligence framework, this analysis utilizes historical playe
 ## Casual Loop Diagram
 The model visualizes the systemic tension between the pressure to win and financial reality:
 
-**R1:** The Success Cycle (Reinforcing Loop): This loop illustrates the cost of success. As Win Probability increases, it drives up Playoff Revenue and Fan/Owner Pressure. This pressure compels management to double down on Allocation to Elite Offense to maintain dominance, creating a snowball effect of rising expectations and spending.
+**R1: The Success Cycle (Reinforcing Loop):** This loop illustrates the cost of success. As Win Probability increases, it drives up Playoff Revenue and Fan/Owner Pressure. This pressure compels management to double down on Allocation to Elite Offense to maintain dominance, creating a snowball effect of rising expectations and spending.
 
-**B1:** The Salary Cap Squeeze (Balancing Loop): This loop acts as the system's hard constraint. Increasing the Allocation to Elite Offense directly reduces the Cap Space for Defense/Depth. This depletion harms Defensive Stability, which drags down Win Probability. This balancing mechanism limits the effectiveness of purely offensive investment, as the team eventually becomes too "top-heavy" and vulnerable defensively.
+**B1: The Salary Cap Squeeze (Balancing Loop):** This loop acts as the system's hard constraint. Increasing the Allocation to Elite Offense directly reduces the Cap Space for Defense/Depth. This depletion harms Defensive Stability, which drags down Win Probability. This balancing mechanism limits the effectiveness of purely offensive investment, as the team eventually becomes too "top-heavy" and vulnerable defensively.
 
-!(img/cld-draft.png)
+![Initial Casual Loop Diagram](img/cld-draft.png)
