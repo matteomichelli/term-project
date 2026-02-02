@@ -5,7 +5,7 @@
 ---
 
 ## Decision Framing
-> **The Decision** Determining the optimal allocation of the team's projected $13M Salary Cap space for the 2026-2027 season: Should the team prioritize acquiring **High-Danger Chance Generation (Elite Offence)** or **High-Danger Chance Suppression (Elite Defence)** to maximize the statistical probability of a Stanley Cup victory?
+> **The Decision:** Determining the optimal allocation of the team's projected $13M Salary Cap space for the 2026-2027 season: Should the team prioritize acquiring **High-Danger Chance Generation (Elite Offence)** or **High-Danger Chance Suppression (Elite Defence)** to maximize the statistical probability of a Stanley Cup victory?
 
 ---
 
