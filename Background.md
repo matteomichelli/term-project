@@ -18,7 +18,7 @@ What has been tried before is a conservative “best player available” strateg
 ---
 
 ### Data Sources
-**Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/)
+* **Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/)
 * **Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/)
 * **MoneyPuck:** [https://moneypuck.com/data.htm](https://moneypuck.com/data.htm)
 
