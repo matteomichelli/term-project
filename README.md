@@ -18,4 +18,4 @@ Using a Decision Intelligence framework, this analysis utilizes historical playe
 
 ---
 
-![Initial Causal Loop Diagram](img/cld-draft.png)
+![Initial Causal Loop Diagram](img/img/cld-draft.png)
