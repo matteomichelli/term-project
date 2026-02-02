@@ -4,7 +4,7 @@
 The Detroit Red Wings are one of the NHL’s Original Six franchises, yet they currently face a crisis of relevance. After a quarter-century of dominance, the team has missed the playoffs for nine consecutive seasons (2016–2025). General Manager Steve Yzerman was hired in 2019 to execute a patient rebuilding strategy known as the "Yzerplan," which focused on accumulating high draft picks and developing internal talent. However, as the team enters the 2026-2027 season, patience has run out. The team currently remains a "bubble team," which is the most dangerous place to be. You aren't good enough to win a championship, but you aren't bad enough to get a top draft lottery pick.
 
 ## The Decision Stakes
-This decision matters because the Red Wings are at a critical inflection point where the "rebuild" must transition into "contention." The stakes are the validation of the entire seven-year strategic rebuild and the potential loss of millions in playoff gate revenue. Failing to optimize the team’s remaining $8.5M in salary cap space risks extending the playoff drought to a full decade, which could result in the loss of fanbase trust and jeopardize the job security of the management group.
+This decision matters because the Red Wings are at a critical inflection point where the "rebuild" must transition into "contention." The stakes are the validation of the entire seven-year strategic rebuild and the potential loss of millions in playoff gate revenue. Failing to optimize the team’s projected $13M in salary cap space risks extending the playoff drought to a full decade, which could result in the loss of fanbase trust and jeopardize the job security of the management group.
 
 ## The Core Tension and Trade-offs
 This decision is difficult because of the strict constraints of the NHL Salary Cap, which creates a zero-sum game: every dollar spent on offence is a dollar denied to defence. In the modern NHL, Elite Offence (players who generate High-Danger Chances) typically commands a 20-30% market premium over defensive specialists. The tension exists between the high cost of acquiring goal-scoring talent, which forces the team to sacrifice depth, versus the lower cost of defensive suppression, which offers better value but historically struggles to win games in the high-scoring modern era. Yzerman must decide if paying the premium for a star forward offers a better Return on Investment (ROI) regarding Win Probability than spreading that money across two reliable defensive defensemen.
@@ -18,9 +18,9 @@ What has been tried before is a conservative “best player available” strateg
 ---
 
 ### Data Sources
-* **NHL API (Official):** [https://github.com/dword4/nhlapi](https://github.com/dword4/nhlapi) - Game logs and box scores.
-* **Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/) - Corsi/Fenwick possession metrics.
-* **MoneyPuck:** [https://moneypuck.com/data.htm](https://moneypuck.com/data.htm) - Expected Goals (xG) models.
+**Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/)
+* **Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/)
+* **MoneyPuck:** [https://moneypuck.com/data.htm](https://moneypuck.com/data.htm)
 
 ### Refrences
 * Dixon, R. (2025, April 14). *Have rebuilding Red Wings already hit their peak?* Sportsnet. https://www.sportsnet.ca/nhl/article/have-rebuilding-red-wings-already-hit-their-peak/
