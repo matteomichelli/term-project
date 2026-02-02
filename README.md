@@ -17,5 +17,11 @@ This project addresses the core tension of roster construction: the trade-off be
 Using a Decision Intelligence framework, this analysis utilizes historical player data and predictive modelling to assess the impact of these opposing strategies on playoff success. Demonstrating the feedback loops among roster investment, on-ice performance, and cap flexibility provides the General Manager with data-backed advice on how to utilize the team's remaining financial assets to maximize the likelihood of winning the Stanley Cup in 2027.
 
 ---
+## Casual Loop Diagram
+The model visualizes the systemic tension between the pressure to win and financial reality:
 
-![Initial Causal Loop Diagram](img/img/cld-draft.png)
+**R1:** The Success Cycle (Reinforcing Loop): This loop illustrates the cost of success. As Win Probability increases, it drives up Playoff Revenue and Fan/Owner Pressure. This pressure compels management to double down on Allocation to Elite Offense to maintain dominance, creating a snowball effect of rising expectations and spending.
+
+**B1:** The Salary Cap Squeeze (Balancing Loop): This loop acts as the system's hard constraint. Increasing the Allocation to Elite Offense directly reduces the Cap Space for Defense/Depth. This depletion harms Defensive Stability, which drags down Win Probability. This balancing mechanism limits the effectiveness of purely offensive investment, as the team eventually becomes too "top-heavy" and vulnerable defensively.
+
+(img/img/cld-draft.png)
