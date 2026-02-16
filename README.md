@@ -16,6 +16,7 @@ This project addresses the core tension of roster construction: the trade-off be
 
 Using a Decision Intelligence framework, this analysis utilizes historical player data and predictive modelling to assess the impact of these opposing strategies on playoff success. Demonstrating the feedback loops among roster investment, on-ice performance, and cap flexibility provides the General Manager with data-backed advice on how to utilize the team's remaining financial assets to maximize the likelihood of winning the Stanley Cup in 2027.
 
+[Read more](Background.md)
 ---
 ## Casual Loop Diagram
 The model visualizes the systemic tension between the pressure to win and financial reality:
