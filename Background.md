@@ -22,7 +22,7 @@ What has been tried before is a conservative “best player available” strateg
 * **Natural Stat Trick:** [https://www.naturalstattrick.com/](https://www.naturalstattrick.com/)
 * **MoneyPuck:** [https://moneypuck.com/data.htm](https://moneypuck.com/data.htm)
 
-### Refrences
+### References
 * Dixon, R. (2025, April 14). *Have rebuilding Red Wings already hit their peak?* Sportsnet. https://www.sportsnet.ca/nhl/article/have-rebuilding-red-wings-already-hit-their-peak/
 * Hornich, L. (2025, February 3). *Red Wings ready to capitalize on rising salary cap.* The Hockey Writers. https://thehockeywriters.com/red-wings-rising-salary-cap-2025/
 * Proteau, A. (2025, September 23). *Red Wings need flawless season to avoid decade-long playoff drought.* The Hockey News. https://thehockeynews.com/news/latest-news/red-wings-need-flawless-season-to-avoid-decade-long-playoff-drought
