@@ -25,4 +25,4 @@ The model visualizes the systemic tension between the pressure to win and financ
 
 **B1: The Salary Cap Squeeze (Balancing Loop):** This loop acts as the system's hard constraint. Increasing the Allocation to Elite Offense directly reduces the Cap Space for Defense/Depth. This depletion harms Defensive Stability, which drags down Win Probability. This balancing mechanism limits the effectiveness of purely offensive investment, as the team eventually becomes too "top-heavy" and vulnerable defensively.
 
-![Initial Causal Loop Diagram](img/cld-draft.png)
+![Causal Loop Diagram](img/cld-draft.png)
