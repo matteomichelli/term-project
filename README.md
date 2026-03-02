@@ -44,7 +44,7 @@ The positive link between expected goals percentage and Win Probability is suppo
 
 ---
 
-## Milestone 2: Data Exploration & System Mapping
+## Data Exploration & System Mapping
 
 ### Data Sources
 Two data sources were used for this analysis, covering all 32 NHL teams across five regular seasons (2020-21 through 2024-25) at 5-on-5 strength:
