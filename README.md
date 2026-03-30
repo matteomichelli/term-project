@@ -99,3 +99,22 @@ Natural Stat Trick. (2026). *NHL team statistics 2021–2025, 5v5 regular season
 Pro Hockey Rumors. (2025, October 22). *Salary cap deep dive: Detroit Red Wings*. https://www.prohockeyrumors.com/2025/10/salary-cap-deep-dive-detroit-red-wings-9.html
 
 Octopus Thrower. (2025, June 16). *How the looming salary cap boost can reshape the Red Wings plans*. https://octopusthrower.com/how-the-looming-salary-cap-boost-can-reshape-the-red-wings-plans
+
+
+---
+
+## Interactive Dashboard
+
+### Live Dashboard
+[Breaking the Bubble — Cap Allocation Simulator](https://matteomichelli.shinyapps.io/breaking-the-bubble/)
+
+### User Guide
+The dashboard has four pages:
+
+- **Decision Context** — Overview of the decision, key metrics, and the core tension between offensive and defensive investment
+- **League Explorer** — Interactive scatter plot comparing all 32 NHL teams across five seasons. Filter by season and switch between xGF%, HDCF%, and CF% on the X axis
+- **Detroit Trends** — Line chart tracking Detroit vs the league average from 2021–2025. Toggle between xGF%, HDCF%, and Points
+- **Cap Simulator** — The centrepiece. Use the sliders to allocate Detroit's $12.8M between Elite Offence and Elite Defence and see the projected impact on xGF%, HDCF%, standings points, league rank, and playoff probability
+
+### Implications for the Decision
+The dashboard's regression model, trained on 160 team-seasons (2021–2025), shows that each 1% improvement in xGF% is worth approximately 2.83 additional standings points, roughly 6x the impact of a 1% HDCF% improvement. Detroit's 2025 xGF% of 49.98% places them just below the 50% break-even threshold that separates bubble teams from playoff contenders, while their HDCF% of 48.68% sits well below the playoff average of 52.45%. The simulator consistently shows that allocating the majority of the $12.8M toward elite offensive talent produces the largest projected point gain and the highest playoff probability. A purely defensive allocation improves suppression metrics but falls short of the point totals needed to qualify. Key uncertainties include player availability, injury risk, and whether a single player acquisition can move team-level xGF% as much as the model assumes.
